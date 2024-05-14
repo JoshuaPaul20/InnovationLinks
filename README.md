@@ -1,8 +1,13 @@
 # Innovation Links 🔗
 
-AFWERX (https://afwerx.com/) <br />
-SPACEWERX (https://spacewerx.us/) <br />
-Project Mercury (https://projectmercury.us/) <br />
-Tesseract (https://www.tesseract.af.mil/) <br />
-AFRL (https://www.afrl.af.mil/) <br />
-DAF AI Accelerators (https://www.aiaccelerator.af.mil/) <br />
+[![AFWERX](https://img.shields.io/badge/-AFWERX-blue?style=for-the-badge&logo=data:image/svg+xml;base64,...)](https://afwerx.com/)
+
+[![SPACEWERX](https://img.shields.io/badge/-SPACEWERX-blue?style=for-the-badge&logo=data:image/svg+xml;base64,...)](https://spacewerx.us/)
+
+[![Project Mercury](https://img.shields.io/badge/-Project%20Mercury-blue?style=for-the-badge&logo=data:image/svg+xml;base64,...)](https://projectmercury.us/)
+
+[![Tesseract](https://img.shields.io/badge/-Tesseract-blue?style=for-the-badge&logo=data:image/svg+xml;base64,...)](https://www.tesseract.af.mil/)
+
+[![AFRL](https://img.shields.io/badge/-AFRL-blue?style=for-the-badge&logo=data:image/svg+xml;base64,...)](https://www.afrl.af.mil/)
+
+[![DAF AI Accelerators](https://img.shields.io/badge/-DAF%20AI%20Accelerators-blue?style=for-the-badge&logo=data:image/svg+xml;base64,...)](https://www.aiaccelerator.af.mil/)

@@ -22,6 +22,8 @@
 <details>
 <summary>Click to Expand/Collapse</summary>
 
+&nbsp;
+
 [![Datarobot](https://img.shields.io/badge/-Datarobot%20-purple?style=for-the-badge)](https://datarobot.advana.data.mil/new)
 
 [![Vision](https://img.shields.io/badge/-Vision%20-purple?style=for-the-badge)](https://vision.il4.afwerx.dso.mil/initiatives/explore)

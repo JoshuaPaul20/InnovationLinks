@@ -2,6 +2,7 @@
 
 <details>
 <summary>Click to Expand/Collapse</summary>
+&nbsp;
 
 [![AFWERX](https://img.shields.io/badge/-AFWERX-blue?style=for-the-badge&logo=data:image/svg+xml;base64,...)](https://afwerx.com/)
 

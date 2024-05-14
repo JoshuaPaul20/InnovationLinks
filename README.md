@@ -1,5 +1,8 @@
 # Innovation Links 🔗
 
+<details>
+<summary>Click to Expand/Collapse</summary>
+
 [![AFWERX](https://img.shields.io/badge/-AFWERX-blue?style=for-the-badge&logo=data:image/svg+xml;base64,...)](https://afwerx.com/)
 
 [![SPACEWERX](https://img.shields.io/badge/-SPACEWERX-blue?style=for-the-badge&logo=data:image/svg+xml;base64,...)](https://spacewerx.us/)
@@ -11,6 +14,8 @@
 [![AFRL](https://img.shields.io/badge/-AFRL-blue?style=for-the-badge&logo=data:image/svg+xml;base64,...)](https://www.afrl.af.mil/)
 
 [![DAF AI Accelerators](https://img.shields.io/badge/-DAF%20AI%20Accelerators-blue?style=for-the-badge&logo=data:image/svg+xml;base64,...)](https://www.aiaccelerator.af.mil/)
+
+</details>
 
 # CAC Tech Tools 🛠️
 [![Datarobot](https://img.shields.io/badge/-Datarobot%20-purple?style=for-the-badge)](https://datarobot.advana.data.mil/new)

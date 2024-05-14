@@ -1,7 +1,7 @@
 # Innovation Links 🔗
 
 
-## Innovation Partners 🤝
+## Partners & Resources 🤝
 <details>
 <summary>Click to Expand/Collapse</summary>
 &nbsp;

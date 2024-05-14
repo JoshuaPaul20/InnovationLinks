@@ -36,3 +36,14 @@
 
 </details>
 
+## Education 📚
+<details>
+<summary>Click to Expand/Collapse</summary>
+&nbsp;
+
+[![Digital U](https://img.shields.io/badge/-Digital%20U-red?style=for-the-badge)](https://digitalu.af.mil/app)
+
+
+  
+</details>
+

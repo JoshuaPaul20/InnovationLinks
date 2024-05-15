@@ -18,6 +18,8 @@
 
 [![DAF AI Accelerators](https://img.shields.io/badge/-DAF%20AI%20Accelerators-blue?style=for-the-badge&logo=data:image/svg+xml;base64,...)](https://www.aiaccelerator.af.mil/)
 
+[![Agitare](https://img.shields.io/badge/-DAF%20AI%20Accelerators-blue?style=for-the-badge&logo=data:image/svg+xml;base64,...)](https://agitare.def.org/)
+
 </details>
 
 ## CAC Tech Tools 🛠️

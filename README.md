@@ -44,13 +44,13 @@
 
 &nbsp;
 
-[![Digital U\](https://img.shields.io/badge/-Digital%20U-red?style=for-the-badge)](https://digitalu.af.mil/app)
+[![Digital U](https://img.shields.io/badge/-Digital%20U-red?style=for-the-badge)](https://digitalu.af.mil/app)
 
-[![Innovation Education Asset Identification\](https://img.shields.io/badge/-Innovation%20Education%20Asset%20Identification-red?style=for-the-badge)](https://docs.google.com/document/d/144v6yFao-5RvA2ROy8yNvw2MqdPCEcnqnllFBLKS9ic/edit#heading=h.4rmoq0wxu2xv)
+[![Innovation Education Asset Identification](https://img.shields.io/badge/-Innovation%20Education%20Asset%20Identification-red?style=for-the-badge)](https://docs.google.com/document/d/144v6yFao-5RvA2ROy8yNvw2MqdPCEcnqnllFBLKS9ic/edit#heading=h.4rmoq0wxu2xv)
 
-[![Percepio\](https://img.shields.io/badge/-Percepio-red?style=for-the-badge)](https://www.skillsoft.com/meet-skillsoft-percipio)
+[![Percepio](https://img.shields.io/badge/-Percepio-red?style=for-the-badge)](https://www.skillsoft.com/meet-skillsoft-percipio)
 
-[![Air University Accelerator\](https://img.shields.io/badge/-Air%20University%20Accelerator-red?style=for-the-badge)](https://auix.org/)
+[![Air University Accelerator](https://img.shields.io/badge/-Air%20University%20Accelerator-red?style=for-the-badge)](https://auix.org/)
 
 </details>
 
